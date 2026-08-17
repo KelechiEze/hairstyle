@@ -86,7 +86,7 @@ export const BookingModal: React.FC<BookingModalProps> = ({ isOpen, onClose, ini
                   <span>Reserve Appointment</span>
                 </div>
                 <h3 className="text-2xl sm:text-3xl font-extrabold font-heading text-white">
-                  Experience SALONIX
+                  Experience SALONÉ
                 </h3>
                 <p className="text-neutral-400 text-xs sm:text-sm mt-1">
                   Tailored hair artistry crafted specifically for your texture & personal style.

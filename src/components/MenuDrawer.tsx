@@ -45,7 +45,7 @@ export const MenuDrawer: React.FC<MenuDrawerProps> = ({
           <div className="flex items-center justify-between">
             <div className="flex items-center gap-2">
               <span className="text-white font-extrabold text-xl tracking-wider font-heading">
-                SALONIX<span className="text-xs text-neutral-400 font-normal">®</span>
+                SALONÉ<span className="text-xs text-neutral-400 font-normal">®</span>
               </span>
             </div>
             <button

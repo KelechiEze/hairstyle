@@ -13,7 +13,7 @@ export const FooterSection: React.FC<FooterSectionProps> = ({ onOpenContact, onO
 
   return (
     <footer 
-      id="salonix-footer" 
+      id="salone-footer" 
       className="relative w-full bg-[#2d0e0a] text-white pt-20 sm:pt-24 pb-12 sm:pb-16 overflow-hidden select-none"
     >
       <div className="max-w-7xl mx-auto px-6 sm:px-10 md:px-14 lg:px-16">
@@ -31,7 +31,7 @@ export const FooterSection: React.FC<FooterSectionProps> = ({ onOpenContact, onO
               <svg viewBox="0 0 24 24" fill="none" className="w-6 h-6 stroke-current stroke-[2.2]">
                 <polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2" />
               </svg>
-              <span>SALONIX<span className="text-xs font-normal">®</span></span>
+              <span>SALONÉ<span className="text-xs font-normal">®</span></span>
             </div>
 
             <p className="text-neutral-300 text-xs sm:text-sm leading-relaxed max-w-sm font-normal">
@@ -40,11 +40,11 @@ export const FooterSection: React.FC<FooterSectionProps> = ({ onOpenContact, onO
 
             <div>
               <button
-                id="footer-contact-salonix-btn"
+                id="footer-contact-salone-btn"
                 onClick={onOpenContact}
                 className="px-6 py-3 bg-white hover:bg-[#f6f2ec] active:scale-95 text-[#2d0e0a] font-medium text-xs sm:text-sm flex items-center gap-2 rounded-none transition-all shadow-md group"
               >
-                <span>Contact Salonix</span>
+                <span>Contact Saloné</span>
                 <ArrowRight className="w-3.5 h-3.5 transition-transform group-hover:translate-x-1" />
               </button>
             </div>
@@ -148,7 +148,7 @@ export const FooterSection: React.FC<FooterSectionProps> = ({ onOpenContact, onO
 
         </div>
 
-        {/* Bottom Giant Brand Display: Massive SALONIX® Branding */}
+        {/* Bottom Giant Brand Display: Massive SALONÉ® Branding */}
         <div className="pt-12 sm:pt-16 flex items-center justify-center overflow-hidden">
           <div className="w-full flex items-center justify-between text-white select-none">
             {/* Left Geometric Logo */}
@@ -163,7 +163,7 @@ export const FooterSection: React.FC<FooterSectionProps> = ({ onOpenContact, onO
 
             {/* Massive Heading */}
             <h1 className="text-[14vw] sm:text-[15vw] font-black font-heading tracking-tight leading-none text-white whitespace-nowrap">
-              SALONIX<span className="text-[6vw] font-bold align-top ml-2">®</span>
+              SALONÉ<span className="text-[6vw] font-bold align-top ml-2">®</span>
             </h1>
           </div>
         </div>

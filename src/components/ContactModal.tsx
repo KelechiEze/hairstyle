@@ -47,7 +47,7 @@ export const ContactModal: React.FC<ContactModalProps> = ({ isOpen, onClose }) =
 
           <div className="mb-6">
             <span className="text-[11px] font-bold tracking-widest text-neutral-400 uppercase">
-              SALONIX CONCIERGE
+              SALONÉ CONCIERGE
             </span>
             <h3 className="text-2xl sm:text-3xl font-extrabold font-heading text-white mt-1">
               Contact & Location

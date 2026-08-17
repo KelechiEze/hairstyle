@@ -60,12 +60,12 @@ export default function App() {
               <span className="text-white/80">PREMIUM HAIR SALON</span>
             </div>
 
-            {/* Main Huge Display Heading: SALONIX */}
+            {/* Main Huge Display Heading: SALONÉ */}
             <h1
               id="hero-main-title"
               className="text-6xl sm:text-7xl md:text-8xl lg:text-[7.5rem] font-extrabold font-heading text-white tracking-tight uppercase leading-[0.95] drop-shadow-2xl"
             >
-              SALONIX
+              SALONÉ
             </h1>
 
             {/* Paragraph Description */}

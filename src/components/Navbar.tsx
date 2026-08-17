@@ -31,7 +31,7 @@ export const Navbar: React.FC<NavbarProps> = ({ onOpenBooking, onOpenMenu }) => 
     >
       {/* Brand Logo */}
       <div 
-        id="salonix-logo" 
+        id="salone-logo" 
         className="flex items-center gap-2.5 cursor-pointer group select-none"
         onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
       >
@@ -41,7 +41,7 @@ export const Navbar: React.FC<NavbarProps> = ({ onOpenBooking, onOpenMenu }) => 
           </svg>
         </div>
         <span className="text-white font-extrabold text-lg md:text-xl tracking-wider font-heading flex items-start">
-          SALONIX<span className="text-[10px] ml-0.5 mt-0.5 text-neutral-400 font-normal">®</span>
+          SALONÉ<span className="text-[10px] ml-0.5 mt-0.5 text-neutral-400 font-normal">®</span>
         </span>
       </div>
 

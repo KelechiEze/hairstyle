@@ -240,7 +240,7 @@ export const WhyUsSection: React.FC<WhyUsSectionProps> = ({ onOpenBooking }) => 
                   <svg viewBox="0 0 24 24" fill="none" className="w-5 h-5 stroke-current stroke-[2.2]">
                     <polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2" />
                   </svg>
-                  <span>SALONIX<span className="text-xs font-normal">®</span></span>
+                  <span>SALONÉ<span className="text-xs font-normal">®</span></span>
                 </div>
               </motion.div>
             </div>
@@ -285,7 +285,7 @@ export const WhyUsSection: React.FC<WhyUsSectionProps> = ({ onOpenBooking }) => 
                 <div className="w-full sm:w-44 h-36 flex-shrink-0 relative overflow-hidden bg-[#f4efe9] border border-[#e8ded3]">
                   <img
                     src="https://images.unsplash.com/photo-1556228720-195a672e8a03?auto=format&fit=crop&w=800&q=80"
-                    alt="Salonix Hair Mask"
+                    alt="Saloné Hair Mask"
                     referrerPolicy="no-referrer"
                     className="w-full h-full object-cover object-center transform group-hover:scale-105 transition-transform duration-500 rounded-none"
                   />

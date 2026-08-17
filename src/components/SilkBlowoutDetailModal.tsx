@@ -79,7 +79,7 @@ export const SilkBlowoutDetailModal: React.FC<SilkBlowoutDetailModalProps> = ({
           </div>
 
           <p className="text-xs sm:text-sm text-neutral-300 leading-relaxed mb-6">
-            The signature SALONIX Silk Blowout transforms all natural hair textures with zero chemical damage. Powered by botanical heat-activated silk amino acids and ceramic ion sealing for exceptional silkiness, bouncy movement, and humidity resistance that lasts for days.
+            The signature SALONÉ Silk Blowout transforms all natural hair textures with zero chemical damage. Powered by botanical heat-activated silk amino acids and ceramic ion sealing for exceptional silkiness, bouncy movement, and humidity resistance that lasts for days.
           </p>
 
           <div className="space-y-2 mb-6 text-xs text-neutral-300">
