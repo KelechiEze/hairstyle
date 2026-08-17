@@ -6,8 +6,26 @@ interface RealResultsGallerySectionProps {
   onOpenBooking: () => void;
 }
 
-// 6 High-Definition Editorial & Real Client Result Portrait Links
+// High-Definition Editorial & Real Client Result Portrait Links
 const GALLERY_ITEMS = [
+  {
+    id: 'res-custom-1',
+    image: 'https://kelechieze.wordpress.com/wp-content/uploads/2026/08/salon_artistry_hair_1786955021361.jpg',
+    alt: 'Salon artistry luxury hair styling',
+    caption: 'Artistry & Styling',
+  },
+  {
+    id: 'res-custom-2',
+    image: 'https://kelechieze.wordpress.com/wp-content/uploads/2026/08/salon_results_gold_clip_1786955038178.jpg',
+    alt: 'Salon results gold clip sleek finish',
+    caption: 'Gold Accent Finish',
+  },
+  {
+    id: 'res-custom-3',
+    image: 'https://kelechieze.wordpress.com/wp-content/uploads/2026/08/salon_studio_blonde_1786955006373.jpg',
+    alt: 'Salon studio blonde dimensional color',
+    caption: 'Studio Dimensional Blonde',
+  },
   {
     id: 'res-1',
     image: 'https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91?auto=format&fit=crop&w=900&q=85',
